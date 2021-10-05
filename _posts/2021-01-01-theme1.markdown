@@ -1,0 +1,19 @@
+---
+title: Well-being
+subtitle: Promoting, supporting, and enhancing well-being
+layout: default
+modal-id: 1
+date: 2021-01-01
+images: 
+    - file: wellbeing.jpg
+      size: 2106x1456
+thumbnail: wellbeing_thumbnail.jpg
+key1: Neuroscience and well-being
+key2: Cognitive reappraisal and prefrontal cortex volume
+key3: Optimism and orbitofrontal cortex volume
+ref1: https://nobascholar.com/chapters/73/download.pdf
+ref2: https://doi.org/10.1093/scan/nsw043
+ref3: https://doi.org/10.1093/scan/nsv106
+description: Conducting and translating cognitive neuroscience research into information that can help promote the ultimate goal of supporting and enhancing well-being.
+
+---

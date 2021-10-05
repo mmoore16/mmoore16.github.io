@@ -1,40 +1,44 @@
 url: https://mmoore16.github.io
-#baseurl: /agency-jekyll-theme/
+baseurl: ""
 
 # Site settings
 title: Matthew Moore, Ph.D.
-#email: your-email@domain.com
-description: "Associated Health Fellow at Palo Alto VA Medical Center, Psychiatry."
-
+email: 
+description: "Website for Matthew Moore, Ph.D."
 
 # Team names, titles and social links
-#people:
-#- name: 
-#  pic: 1
-#  position: 
-#  social:
-#    - title: 
-#      url: #
-#    - title: 
-#      url: #
-#    - title: 
-#      url: #
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
+people:
+- name: Matthew Moore, Ph.D.
+  pic: 1
+  position: Associated Health Fellow, Palo Alto VA Medical Center
+  social:
+  - title: envelope-square
+    url: mailto:mttsmoore@gmail.com    
   - title: google-scholar
     url: https://scholar.google.com/citations?hl=en&user=SUsyRJoAAAAJ
   - title: linkedin
     url: https://www.linkedin.com/in/matthew-moore-420345135
+  - title: researchgate
+    url: https://www.researchgate.net/profile/Matthew-Moore-7
   - title: orcid
     url: https://orcid.org/0000-0002-8499-0464
   - title: github
     url: https://github.com/mmoore16
 
-# Postal address (add as many lines as necessary)
-#address:
-#  - line: 
-#  - line: 
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: envelope-square
+    url: mailto:mttsmoore@gmail.com
+  - title: google-scholar
+    url: https://scholar.google.com/citations?hl=en&user=SUsyRJoAAAAJ
+  - title: linkedin
+    url: https://www.linkedin.com/in/matthew-moore-420345135
+  - title: researchgate
+    url: https://www.researchgate.net/profile/Matthew-Moore-7
+  - title: orcid
+    url: https://orcid.org/0000-0002-8499-0464
+  - title: github
+    url: https://github.com/mmoore16
 
 # Build settings
 markdown: kramdown
