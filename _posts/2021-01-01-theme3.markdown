@@ -1,0 +1,19 @@
+---
+title: Methods
+subtitle: Method, protocol, and pipeline advancement
+layout: default
+modal-id: 3
+date: 2021-01-01
+images: 
+    - file: methods.jpg
+      size: 2106x1456
+thumbnail: methods_thumbnail.jpg
+key1: Trimodal brain imaging (fMRI-EEG-EROS)
+key2: MRI-compatible epidermal electronic interfaces
+key3: Medial temporal lobe segmentation in MRI
+ref1: https://doi.org/10.1002/hbm.25541
+ref2: https://doi.org/10.1038/s41551-019-0347-x
+ref3: https://doi.org/10.3791/50991
+description: Working closely with interdisciplinary teams to develop, deploy, integrate, and analyze output from custom physiological measurement techniques and neuroimaging approaches.
+
+---

@@ -1,0 +1,45 @@
+url: https://mmoore16.github.io
+baseurl: ""
+
+# Site settings
+title: Matthew Moore, Ph.D.
+email: 
+description: "Website for Matthew Moore, Ph.D."
+
+# Team names, titles and social links
+people:
+- name: Matthew Moore, Ph.D.
+  pic: 1
+  position: Associated Health Fellow, Veterans Affairs Palo Alto Health Care System
+  social:
+  - title: envelope-square
+    url: mailto:mttsmoore@gmail.com    
+  - title: google-scholar
+    url: https://scholar.google.com/citations?hl=en&user=SUsyRJoAAAAJ
+  - title: linkedin
+    url: https://www.linkedin.com/in/matthew-moore-420345135
+  - title: researchgate
+    url: https://www.researchgate.net/profile/Matthew-Moore-7
+  - title: orcid
+    url: https://orcid.org/0000-0002-8499-0464
+  - title: github
+    url: https://github.com/mmoore16
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: envelope-square
+    url: mailto:mttsmoore@gmail.com
+  - title: google-scholar
+    url: https://scholar.google.com/citations?hl=en&user=SUsyRJoAAAAJ
+  - title: linkedin
+    url: https://www.linkedin.com/in/matthew-moore-420345135
+  - title: researchgate
+    url: https://www.researchgate.net/profile/Matthew-Moore-7
+  - title: orcid
+    url: https://orcid.org/0000-0002-8499-0464
+  - title: github
+    url: https://github.com/mmoore16
+
+# Build settings
+markdown: kramdown
+permalink: pretty

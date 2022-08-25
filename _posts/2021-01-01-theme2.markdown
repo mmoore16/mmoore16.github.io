@@ -1,0 +1,19 @@
+---
+title: Individual Differences
+subtitle: Investigating biomarkers of individual differences
+layout: default
+modal-id: 2
+date: 2021-01-01
+images: 
+    - file: ind_diff.jpg
+      size: 2106x1456
+thumbnail: ind_diff_thumbnail.jpg
+key1: Spatio-temporal dynamics in emotion-cognition interactions
+key2: Neuro-behavioral mechanisms of resilience against emotional distress
+key3: Smaller amygdala volume and increased neuroticism predict anxiety symptoms
+ref1: https://doi.org/10.1016/j.neuroimage.2019.116078
+ref2: https://doi.org/10.1017/pen.2018.11
+ref3: https://doi.org/10.1016/j.neuropsychologia.2017.11.008
+description: Analyzing large questionnaire, behavior, symptom, and brain imaging data sets to examine individual differences (e.g., diagnosis, personality, and performance).
+
+---

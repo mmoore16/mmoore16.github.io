@@ -1,0 +1,45 @@
+<!-- About Section -->
+    <section id="about" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">About Me</h2>
+                </div>
+            </div>
+            <div class="row">
+                {% for member in site.people %}
+                <div class="col-sm-4 col-lg-offset-4 text-center">
+                    <div class="team-member">
+                        <img src="img/about/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                        <h4>{{ member.name }}</h4>
+                        <p class="text-muted">{{ member.position }}</p>
+                        <ul class="list-inline social-buttons">
+                            {% for network in member.social %}
+                            <li>
+							{% if network.title == 'orcid' or network.title == 'google-scholar' or network.title == 'researchgate' %}
+                                <a href="{{ network.url }}">
+                                    <i class="ai ai-{{ network.title }}"></i>
+								</a>
+							{% else %}
+                                <a href="{{ network.url }}">
+									<i class="fa fa-{{ network.title }}"></i>
+								</a>	
+							{% endif %}		
+                            </li>
+                            {% endfor %}
+
+                        </ul>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <p class="large text-muted">I am a research scientist with over a decade in psychology and cognitive neuroscience.</p>
+					<p class="large text-muted">I received my Ph.D. in Psychology from the University of Illinois Urbana-Champaign in 2018, 
+					and was a Beckman Institute Postdoctoral Fellow from 2018 to 2021. 
+					I now work with the War Related Illness and Injury Study Center (WRIISC) at the Veterans Affairs Palo Alto Health Care System.</p>
+                </div>
+            </div>
+        </div>
+    </section>
