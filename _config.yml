@@ -10,7 +10,7 @@ description: "Website for Matthew Moore, Ph.D."
 people:
 - name: Matthew Moore, Ph.D.
   pic: 1
-  position: Associated Health Fellow, Veterans Affairs Palo Alto Health Care System
+  position: Associated Health Fellow, Veterans Affairs Palo Alto Health Care System<br> Postdoctoral Scholar, Stanford University School of Medicine
   social:
   - title: envelope-square
     url: mailto:mttsmoore@gmail.com    
